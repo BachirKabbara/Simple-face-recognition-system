@@ -29,7 +29,7 @@ Run `trainingCode.m` to train the model with the collected data. This script wil
 Execute `testingModelCode.m` to start the real-time face recognition. This script will use the trained model to detect and classify faces in the webcam feed.
 
 ## Prerequisites
-- MATLAB (Version XYZ or later recommended)
+- MATLAB (Version R2022b or later recommended)
 - Deep Learning Toolbox
 - A webcam compatible with MATLAB
 - Adequate lighting for image capture
